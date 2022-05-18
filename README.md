@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/biggbhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="biggbhen" height="30" width="40" /></a>
 <a href="https://twitter.com/bigg_kodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bigg_kodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benjamin-ugochukwu-4614a522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-ugochukwu-4614a522a" height="30" width="40" /></a>
 <a href="https://discord.gg/Big Ben#4382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Big Ben#4382" height="30" width="40" /></a>
