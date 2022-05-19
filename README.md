@@ -30,15 +30,15 @@ I’m Benjamin (Biggbhen), I design, build, and implement user interface for web
 
 ## Git Stats &#x1f4c8;
 
-<br>
+<!-- <br>
 <p align="left">
   <a href="https://git.io/streak-stats">
-  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
-  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biggbhen&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
+  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=biggbhen&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
   </a>
 </p>
-<br>
+<br> -->
 
-[![Biggbhen Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=biggbhen&custom_title=biggKodes%20Trips's%20Contribution%20Graph&theme=react-dark)]
+[![Biggbhen Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=biggbhen&custom_title=biggKodes%20Contribution%20Graph&theme=react-dark)]
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
