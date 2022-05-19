@@ -13,7 +13,7 @@ I’m Benjamin (Biggbhen), I design, build, and implement user interface for web
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/biggbhen)
 
 <br>
-<img align="right" width="100%" height="350px" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
+<img align="right" width="150%" height="350px" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
 <br>
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
@@ -39,6 +39,6 @@ I’m Benjamin (Biggbhen), I design, build, and implement user interface for web
 </p>
 <br> -->
 
-[![Biggbhen Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=biggbhen&custom_title=biggKodes%20Contribution%20Graph&theme=react-dark)]
+![Biggbhen Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=biggbhen&custom_title=biggKodes%20Contribution%20Graph&theme=react-dark)
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
