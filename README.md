@@ -1,10 +1,12 @@
+Benjamin Ugochukwu
+[Software Engineer | JavaScript | Node.Js | React| MongoDB | python]
 
-Software Engineer | JavaScript | Node.Js | React| MongoDB | python
-![bigghen's GitHub Banner](/assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner2.png)
+![bigghen's GitHub Banner](./assets/home-office-interior-room-working-with-pc/149Z_2107.w015.n001.493B.p15.493.jpg)
+
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
-I’m Benjamin (Biggbhen), I design, build, and implement user interface for websites, software programs, and web-based applications.
+I’m Benjamin, I am a full-stack web dev and I design, and build web-based applications.
 
 ![views](https://views-badge.glitch.me/badge?page_id=biggbhen)
 
