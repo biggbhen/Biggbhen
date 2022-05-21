@@ -20,7 +20,7 @@ I’m Benjamin, I am a full-stack web dev and I design, and build web-based appl
 <br>
 
 - 🔭 I’m currently working on Data Structures and Algorithms.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Node.Js
 - 👯 I’m looking to collaborate on Web Development Related Projects .
 - 💬 Ask me about Anything, I am happy to help.
 - 📫 How to reach me: benstar531@gmail.com
