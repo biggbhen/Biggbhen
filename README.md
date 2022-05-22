@@ -6,7 +6,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=4AB197&lines=I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=cyan&lines=I'm+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 <!-- I’m Benjamin, I am a full-stack web dev and I design, and build web-based applications. -->
 
