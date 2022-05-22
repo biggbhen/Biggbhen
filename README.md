@@ -1,6 +1,6 @@
  JavaScript | React |Node.Js| MongoDB | TypeScript
 
-![bigghen's GitHub Banner](./assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner2.png)
+![bigghen's GitHub Banner](./assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner.png)
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
