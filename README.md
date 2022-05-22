@@ -1,3 +1,4 @@
+<div id="header" align="center">
  JavaScript | React |Node.Js| MongoDB | TypeScript
 
 ![bigghen's GitHub Banner](./assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner.png)
@@ -5,7 +6,9 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
-I’m Benjamin, I am a full-stack web dev and I design, and build web-based applications.
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=CB38F7&lines=I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+
+<!-- I’m Benjamin, I am a full-stack web dev and I design, and build web-based applications. -->
 
 ![views](https://views-badge.glitch.me/badge?page_id=biggbhen)
 
