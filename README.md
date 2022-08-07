@@ -1,121 +1,47 @@
-![Agba's GitHub Banner](./assets/home-office-interior-room-working-with-pc/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
+![Biggbhen GitHub Banner](./assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner.png)
 
-## Hi there 👋
-
-I’m Benjamin, a software engineer that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use digital experiences. My coding stack is React, Node, Express, and MongoDB..
-
-![views](https://views-badge.glitch.me/badge?page_id=biggbhen)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/biggkodes)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/benjamin-ugochukwu-4614a522a)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/biggbhen)
-[![CodeWars Badge](https://img.shields.io/badge/CodeWars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red)](https://www.codewars.com/users/biggKodes)
-
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Priest;Software+Engineer">
 <br>
-<img align="right" width="50%" height="350px" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
-<br>
-
-- 🔭 I’m currently working on a collaborative project.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate in Web Development Related Projects .
-- 💬 Ask me about Anything, I am happy to help.
-- 📫 How to reach me: benstar531@gmail.com
-- 😄 Pronouns: He/They.
-- ⚡ Fun fact: Everything's an object.
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733826%20lines%20of%20code-blue)
-
-<br clear="right"/>
-
-## Git Stats &#x1f4c8;
-
-<br>
-<p align="left">
-  <a href="https://git.io/streak-stats">
-  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biggbhen&layout=compact&title_color=5BCDEC&text_color=FFFEFE&hide=HTML&icon_color=4AB197&bg_color=0D1117" />
-  <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=biggbhen&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
-  </a>
+Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay awhile and browse through my latest projects if you'd like to see what I've been working on. Lastly, don't hesitate to reach out if you would like to hire me or collaborate on anything web development!
 </p>
-<br>
 
-<!-- ## Projects &#127959;
-
-<table bordercolor="#66b2b2">
+<!-- SOCIALS -->
+<h1 align="center">Contact Me</h1>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/david-aniebo/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
+    <a href="mailto:aniebovictor001@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
+    <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>
+    <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+  </p>
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Contact Keeper</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="./assets/contact_keeper.gif" width="100%" alt="Contact Keeper"/>
-        </a>
-        <br />
-        <p align="center">
+ <!-- Stats -->
+  <h1 align="center">Code Stats</h1>
+<div align="center">
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+</div>
+</br>
 
-  <a href="https://github.com/tracemycodes/fullstack_contact_keeper_webapp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://tracemycodes-contact-keeper.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ReactJs, MongoDB, Node.js, & Express.js</strong> - A Full-stack web application that provides a Database that save's all of your professional and personal contact information, with CRUD functionality and responsive design.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">E-commerce Product Page</h3>
-        <br />
-      <a target="_blank" href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/">
-            <img src="./assets/product_page.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/tracemycodes/E-commerce-product-page" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript, SCSS, OOP</strong> - A fully responsive E-commerce page built with the principles of Object Oriented Programming, Displaying multiple carousel elements, LightBox component, while actualizing user experience.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Countries API</h3>
-      <br />
-        <a target="_blank" href="https://app.netlify.com/sites/agba-countries-api">
-          <img src="./assets/countries_api.gif" width="100%" alt="Countries Api"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/tracemycodes/countries_api_info_reactapp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://app.netlify.com/sites/agba-countries-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>ReactJs, Style-Components, Axios</strong> - An informative web application, displaying basic information about countries around the globe, useful whenever you're considering going on your next vacation trip.  &#128515;</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
-        <br />
-        <a target="_blank" href="https://agba-tracemycodes-ip-address-tracker.netlify.app/">
-          <img src="./assets/ipaddress.gif" width="100%" alt="Ip Tracker"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/tracemycodes/IP-Address-Tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, MapBox, & Leaflet</strong> - AI project, detecting the location details on an interactive map of any valid IP address using Geo-location</p>
-    </td>
-  </tr>
-</table> -->
+<h1 align="center">Technologies</h1>
+   <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-164C78?style=plastic&logo=html5" height=25>
+      <img src="https://img.shields.io/badge/CSS3-164C78?style=plastic&logo=css3&logoColor=2388C3" height=25>
+      <img src="https://img.shields.io/badge/SaSS-164C78?style=plastic&logo=sass" height=25>
+      <img src="https://img.shields.io/badge/Bootstrap-164C78?style=plastic&logo=bootstrap" height=25>
+      <img src="https://img.shields.io/badge/JavaScript-164C78?style=plastic&logo=javascript" height=25>
+      <img src="https://img.shields.io/badge/Node.js-164C78?style=plastic&logo=nodedotjs" height=25>
+      <img src="https://img.shields.io/badge/React-164C78?style=plastic&logo=react" height=25>
+      <img src="https://img.shields.io/badge/Express.js-164C78?style=plastic&logo=express&logoColor=000000" height=25>
+      <img src="https://img.shields.io/badge/MongoDB-164C78?style=plastic&logo=mongodb" height=25>
+      <img src="https://img.shields.io/badge/Linear-164C78?style=plastic&logo=linear" height=25>
+      <img src="https://img.shields.io/badge/Redux-164C78?style=plastic&logo=redux&logoColor=764ABC" height=25>
+      <img src="https://img.shields.io/badge/Typescript-164C78?style=plastic&logo=typescript" height=25>
+      <img src="https://img.shields.io/badge/Figma-164C78?style=plastic&logo=figma" height=25>
+      <img src="https://img.shields.io/badge/Json-164C78?style=plastic&logo=json" height=25>
+      <img src="https://img.shields.io/badge/Visual_Studio-164C78?style=plastic&logo=visual%20studio&logoColor=007ACC" height=25>
+      <img src="https://img.shields.io/badge/GIT-164C78?style=plastic&logo=git" height=25>
+      <img src="https://img.shields.io/badge/Firebase-164C78?style=plastic&logo=firebase" height=25>
+      <img src="https://img.shields.io/badge/AWS-164C78?style=plastic&logo=amazon" height=25>
+      <img src="https://img.shields.io/badge/Webpack-164C78?style=plastic&logo=webpack" height=25>
+      <img src="https://img.shields.io/badge/Jira-164C78?style=plastic&logo=jiraSoftware" height=25>
+    </p>
