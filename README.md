@@ -9,16 +9,16 @@ Hi there, 👋🏽&nbsp I'm a full stack software engineer. Feel free to stay aw
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">
-    <a href="https://www.linkedin.com/in/david-aniebo/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
-    <a href="mailto:aniebovictor001@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
-    <a href="https://twitter.com/webmekanic_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>
-    <a href="https://www.codewars.com/users/Webmekanic"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+    <a href="https://www.linkedin.com/in/biggkodes/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=25></a>
+    <a href="mailto:benstar531@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=25></a>
+    <a href="https://twitter.com/bigg_kodes_"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>
+    <a href="https://www.codewars.com/users/biggKodes"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
   </p>
   
  <!-- Stats -->
   <h1 align="center">Code Stats</h1>
 <div align="center">
- <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=webmekanic&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=biggbhen&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
 </div>
 </br>
 
