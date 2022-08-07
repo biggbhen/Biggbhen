@@ -1,4 +1,4 @@
-![Biggbhen GitHub Banner](./assets/home-office-interior-room-working-with-pc/biggg's%20Black%20Technology%20LinkedIn%20Banner.png)
+![Biggbhen GitHub Banner](./assets/home-office-interior-room-working-with-pc/149Z_2107.w015.n001.493B.p15.493.jpg)
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Priest;Software+Engineer">
