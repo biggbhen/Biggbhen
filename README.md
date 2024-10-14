@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=I'm+The+Coding+Priest;Software+Engineer">
 <br>
-Hi there, 👋🏽&nbsp I'm a Software engineer that offers full-stack JavaScript development and design. I love creating clean, accessible, and easy-to-use digital experiences.
+Hi there, 👋🏽&nbsp I'm a Software engineer that offers full-stack web development and design. I love creating clean, accessible, and easy-to-use digital experiences.
 Feel free to reach out to me!
 </p>
 
